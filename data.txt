@@ -43,13 +43,13 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "ab1b1183-a95e-4ead-86b3-a49f4ded7abe",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcO8EQ.webp",
+	 "title": "fighting games",
+	 "text": "Characters from different dimensions, time periods, or even genres collide in a chaotic battle. Imagine warriors from ancient times fighting against futuristic robots, or mythical creatures facing off against space-faring aliens. Each character brings their unique abilities from their respective worlds.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcOvCx.webp",
+	 "title": "fighting games",
+	 "text": "Fighters represent different elemental forces (fire, water, earth, air) with distinct abilities and powers. Players can strategically use the environment to their advantage, manipulating elements to create obstacles or unleash devastating attacks.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcOjpe.webp",
+	 "title": "fighting games",
+	 "text": "Characters have the ability to transform into various forms during battle. This introduces an element of unpredictability, strategy, and adaptability as players need to figure out the best time to switch forms to gain an advantage.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcONTu.webp",
+	 "title": "fighting games",
+	 "text": "A fighting game where the environment plays a significant role. For example, stages that change over time, introducing hazards like collapsing buildings, rising water levels, or shifting landscapes. Players must adapt to both their opponent's attacks and the changing environment.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcOeQj.webp",
+	 "title": "fighting games",
+	 "text": "A game that pays homage to classic arcade fighting games with pixel art and simple controls but introduces modern mechanics and a deep storyline. It combines the nostalgia of the past with the innovation of the present.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcOOhb.webp",
+	 "title": "fighting games",
+	 "text": "Focus on a martial arts theme where players not only engage in physical combat but also utilize a psychological element. Characters can employ mind games, psychological tricks, and strategy to outwit opponents, making it a battle of both strength and intellect",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
